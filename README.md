@@ -18,17 +18,17 @@
 |---|---|---|
 | **[fischhub](https://github.com/adorablewhale/fischhub)** | auto fishing for fisch, made for matcha | ![lua](https://img.shields.io/badge/lua-000?style=flat-square&logo=lua&logoColor=white) |
 | **[insui](https://github.com/adorablewhale/insui)** | a clean drawing-based ui library for matcha | ![lua](https://img.shields.io/badge/lua-000?style=flat-square&logo=lua&logoColor=white) |
-| **[matcha-loader](https://github.com/adorablewhale/matcha-loader)** | one line, every script: the right one for the game you're in | ![lua](https://img.shields.io/badge/lua-000?style=flat-square&logo=lua&logoColor=white) |
+| **[loader](https://github.com/adorablewhale/loader)** | one line, every script: the right one for the game you're in | ![lua](https://img.shields.io/badge/lua-000?style=flat-square&logo=lua&logoColor=white) |
 | **[matcha-helper](https://github.com/adorablewhale/matcha-helper)** | a tiny tray app that gives matcha scripts a few windows powers | ![powershell](https://img.shields.io/badge/powershell-000?style=flat-square&logo=gnometerminal&logoColor=white) |
-| **[matcha-fixer](https://github.com/adorablewhale/matcha-fixer)** | a little help getting matcha running | ![c#](https://img.shields.io/badge/c%23-000?style=flat-square&logo=dotnet&logoColor=white) |
-| **[tiltline-access](https://github.com/adorablewhale/tiltline-access)** | spike assist for volleyball legends (key-checked) | ![lua](https://img.shields.io/badge/lua-000?style=flat-square&logo=lua&logoColor=white) |
+| **[fixer](https://github.com/adorablewhale/fixer)** | a little help getting matcha running | ![c#](https://img.shields.io/badge/c%23-000?style=flat-square&logo=dotnet&logoColor=white) |
+| **[tiltline](https://github.com/adorablewhale/tiltline)** | spike assist for volleyball legends (key-checked) | ![lua](https://img.shields.io/badge/lua-000?style=flat-square&logo=lua&logoColor=white) |
 
 ### quick start
 
 one line runs the right script for the game you're in:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/adorablewhale/matcha-loader/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/adorablewhale/loader/main/loader.lua"))()
 ```
 
 then open the **cloud dashboard** tab in the menu to control it from [adorablewhale.world](https://adorablewhale.world) or your phone.
@@ -42,4 +42,8 @@ then open the **cloud dashboard** tab in the menu to control it from [adorablewh
 ![d1](https://img.shields.io/badge/d1_sqlite-000?style=flat-square&logo=sqlite&logoColor=white)
 ![discord bots](https://img.shields.io/badge/discord_bots-000?style=flat-square&logo=discord&logoColor=white)
 
-<div align="center"><sub>found a bug? open an issue on the repo or message me on discord.</sub></div>
+found a bug? message me on [discord](https://discord.com/users/599705734002769920), it works way better than issues.
+
+---
+
+<div align="center"><sub>🐳 <b>adorablewhale</b> · <a href="https://adorablewhale.world/me">website</a> · <a href="https://discord.com/users/599705734002769920">discord</a> · <a href="https://github.com/adorablewhale">other projects</a></sub></div>
